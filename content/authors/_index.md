@@ -1,7 +1,8 @@
 ---
-title: XJ Qian 
-role: Post-doc
-avatar: wavepic
+build:
+  render: never
+cascade:
+  build:
+    render: never
+    list: always
 ---
-
-
