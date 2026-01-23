@@ -70,8 +70,7 @@ skills:
   - name: Technical Skills
     items:
       - label: 水动力学数值模拟
-      - label: Python, matlab
-      - label: 
+      - label: Python Matlab
 
 languages:
   - name: English
